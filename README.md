@@ -22,4 +22,4 @@ A simple console program for teachers. The teacher types a student's name and 5 
 2. Paste the code from main.cpp and click Run.
 
 ## Author
-Alizhan Berikov SE1/25
+Alizhan Berikov/Baktgerey AmanbekSE1/25
