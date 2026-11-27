@@ -1,4 +1,7 @@
-# Grade Calculator v2
+ feature/readme-update
+
+# Grade Calculator for Teachers
+
 
 A simple console program for teachers. The teacher types a student's name and 5 scores, and the program shows the average and the grade. At the end it shows how many students were entered and the class average.
 
